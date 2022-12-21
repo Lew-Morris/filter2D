@@ -6,7 +6,7 @@
 ---
 # Overview
 
-This was made for a University module on computer vision. 
+This was made for a University module on computer vision. **I received a grade of 78/100 (1st class) for this assignment**
 
 The filter2D function is used to apply a filter, or kernel, to an input image. This is done by applying a matrix of values (the kernel) to each pixel in the image which results in a final "convolution". 
 
